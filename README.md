@@ -29,7 +29,7 @@ In order to use each properly follow the instructions below:
   Huffman/data
   ```
   
-<img src="https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/compress-tab.png" width="400" height="350" />
+<img src="https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/compress-tab.png" width="400" height="400" />
 
 ![]( | width=100)
 
@@ -37,13 +37,13 @@ In order to use each properly follow the instructions below:
     First, click on "No file Chosen" to choose the file to be decompressed. Then, click on decompress icon after choosing the file. Then,the slide bar perctange shows the compleition out 100%
     Finally, after the slide bar completed 100%, it will show the decompression information.
 
-<img src="https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/decompress-tab.png" width="400" height="350" />
+<img src="https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/decompress-tab.png" width="400" height="400" />
 
 3. Build Tree Tab
     First, insert the text to be displayed.
     finally, click on build tree after inserting the text.
 
-<img src="https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/buildtree-tab.png" width="400" height="350" />
+<img src="https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/buildtree-tab.png" width="400" height="400" />
 
 ---
 
