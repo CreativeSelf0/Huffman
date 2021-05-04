@@ -23,6 +23,12 @@ In order to use each properly follow the instructions below:
    First, click on "No file Chosen" to choose the file to be compressed. Then, click on compress icon after choosing the file. Then, the slide bar perctange shows the compleition out 100%. Finally, after the slide bar completed 100%, it will show the compression information.
 
   Two samples of data namely "Shakesperea, melville" in the data folder were provided that can be used.
+  the path to data folder is 
+  
+  ```
+  Huffman/data
+  ```
+  
 
 ![alt text](gui/../gui-image/compress-tab.png)
 
