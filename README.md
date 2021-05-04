@@ -3,14 +3,6 @@
 
 This project Implements Huffman Coding Algorithm in Java with GUI.
 
-## Acknowledgments
-
-- Huffman algorithm was taken from https://coursework.cs.duke.edu/201spring17/huff-start and modified to fit the project.
-
-- Huffman algorithm to show the tree was taken from https://people.ok.ubc.ca/ylucet/DS/Huffman.html 
-
-The main effort of the project was to combine the algorithim and add visiuaization to simulate the algorithim behavior.
-
 ## Usage
 
 Instructions to Open the program:
@@ -46,8 +38,17 @@ In order to use each properly follow the instructions below:
 
 ![alt text](gui/../gui-image/buildtree-tab.png)
 
-Finally, Enjoy!.
-
 ---
 
 *Important to note that the build tree requires internet connection and may take a bit long to open so please be patient.*
+
+
+## Acknowledgments
+
+- Huffman algorithm was taken from https://coursework.cs.duke.edu/201spring17/huff-start and modified to fit the project.
+
+- Huffman algorithm to show the tree was taken from https://people.ok.ubc.ca/ylucet/DS/Huffman.html 
+
+The main effort of the project was to combine the algorithim and add visiuaization to simulate the algorithim behavior.
+
+
