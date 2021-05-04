@@ -7,7 +7,7 @@ This project Implements Huffman Coding Algorithm in Java with GUI.
 
 Instructions to Open the program:
 
-Only open the HuffmanMain.jar
+Only open the HuffmanMain.jar which will be found under build-jar folder
 
 
 ## GUI Interface
