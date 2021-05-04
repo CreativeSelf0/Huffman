@@ -3,12 +3,6 @@
 
 This project was part of a university course  $Algorithims$
 
-Authors:
-
-*Abdulmajed AlMuarek*
-
-*Abdullah Al-Dossary*
-
 ## Acknowledgments
 
 - Huffman algorithm was taken from https://coursework.cs.duke.edu/201spring17/huff-start and modified to fit the project.
