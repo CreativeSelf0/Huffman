@@ -7,8 +7,8 @@ This project Implements Huffman Coding Algorithm in Java with GUI.
 
 Instructions to Open the program:
 
-1. open the HuffmanMain.jar.
-2. The GUI Contains 3 Tabs { Compress, Decompress, Build Tree }
+Only open the HuffmanMain.jar
+
 
 ## GUI Interface
 
