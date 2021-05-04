@@ -30,19 +30,19 @@ In order to use each properly follow the instructions below:
   ```
   
 
-![](gui/../gui-image/compress-tab.png =250x250)
+![](https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/compress-tab.png =250x250)
 
 2. Decompress Tab
     First, click on "No file Chosen" to choose the file to be decompressed. Then, click on decompress icon after choosing the file. Then,the slide bar perctange shows the compleition out 100%
     Finally, after the slide bar completed 100%, it will show the decompression information.
 
-![](gui/../gui-image/decompress-tab.png  =250x250)
+![](https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/decompress-tab.png  =250x250)
 
 3. Build Tree Tab
     First, insert the text to be displayed.
     finally, click on build tree after inserting the text.
 
-![](gui/../gui-image/buildtree-tab.png =250x250)
+![](https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/buildtree-tab.png =250x250)
 
 ---
 
