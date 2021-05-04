@@ -22,7 +22,7 @@ In order to use each properly follow the instructions below:
 1. Compress Tab
    First, click on "No file Chosen" to choose the file to be compressed. Then, click on compress icon after choosing the file. Then, the slide bar perctange shows the compleition out 100%. Finally, after the slide bar completed 100%, it will show the compression information.
 
-   We provided two samples namely "Shakesperea, melville" in the data folder that can be used.
+  Two samples of data namely "Shakesperea, melville" in the data folder were provided that can be used.
 
 ![alt text](gui/../gui-image/compress-tab.png)
 
