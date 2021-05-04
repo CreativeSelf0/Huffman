@@ -1,7 +1,7 @@
 
 # Huffman Algorithim
 
-This project was part of a university course  $Algorithims$
+This project Implements Huffman Coding Algorithm in Java with GUI.
 
 ## Acknowledgments
 
