@@ -30,7 +30,7 @@ In order to use each properly follow the instructions below:
   ```
   
 
-![](https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/compress-tab.png =250x250)
+![](https://github.com/CreativeSelf0/Huffman/blob/main/gui-image/compress-tab.png | width=100)
 
 2. Decompress Tab
     First, click on "No file Chosen" to choose the file to be decompressed. Then, click on decompress icon after choosing the file. Then,the slide bar perctange shows the compleition out 100%
